@@ -1,0 +1,14 @@
+DATA.BGVAL = 8;
+DATA.BGTMP = 8;
+DATA.BGCOL = 8;
+DATA.BGSWITCH = true;
+DATA.BGFRAME = 0;
+DATA.DASH_FOCUS = new Image(`${DATA.THEME_PATH}icons/focus.png`);
+DATA.DASH_FOCUS.optimize();
+DATA.BGIMG = new Image(`${DATA.THEME_PATH}bg/bg.png`);
+DATA.BGIMG.optimize();
+DATA.BGIMG.filter = LINEAR;
+DATA.DISPLAYBG = true;
+ICOSELCOL = { r: 160, g: 140, b: 50 };
+TXTSELCOL = { r: 180, g: 120, b: 0 };
+CTXTINT = { r: 40, g: 96, b: 220 };
