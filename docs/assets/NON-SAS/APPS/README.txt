@@ -1,1 +1,0 @@
-Place this APPS folder on USB Stick and extract zips. This will preserve timestamps so when you copy with wLE ISR Exfat and mcpaste, apps and configs in memory card browser will be ordered correctly
