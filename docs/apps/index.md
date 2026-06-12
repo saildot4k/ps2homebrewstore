@@ -111,7 +111,7 @@ hide:
 
 
     [:material-cloud-download: BOOT Folder](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu)  
-    Part of [UMCS](/docs/umcs/index.md) as BOOT2.ELF
+    Part of [UMCS](/docs/umcs/) as BOOT2.ELF
 
 [WLE-ISR-COMBINED]: https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-COMMON.zip
 
