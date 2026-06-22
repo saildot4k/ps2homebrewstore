@@ -43,7 +43,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     ![boot_pic](assets/boot.png)
 
-    [:material-cloud-download: BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu), [:material-cloud-download: BOOT MMCE](https://downloads.ps2homebrewstore.com/SAS/BOOT-MMCE.psu) or [:material-cloud-download: BOOT MX4SIO](https://downloads.ps2homebrewstore.com/SAS/BOOT-MMCE.psu)
+    [:material-cloud-download: BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu)
 
     - __`mc?:/BOOT/`__  
         Where exploits look to boot from. 
@@ -56,10 +56,6 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
     - __`mc?:/BOOT/BOOT2.ELF`__  
         wLE R3Z file browser / ELF launcher
 
-
-    !!! info "Pair the BOOT folder with your exploit"
-
-        For consistency, use the correct BOOT, BOOT MMCE or BOOT MX4SIO download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/index.md), use the same device driver installer which can be chanced by manipulating which `SYSTEM.XLF` (PS2) and `XSYSTEM.XLF` (PSX) that you use in KELFBinder.
 
 
 -   __SYS-CONF__![umcs-psu_pic][umcs-psu]{ width="75" }
