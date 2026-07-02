@@ -100,7 +100,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
         GUI to configure FMCB, FHDB, OSDMenu, OSDMenu MBR, HOSDMenu, and PS2BBL Extended
 
-        [:material-cloud-download: R3Configurator](https://downloads.ps2homebrewstore.com/NON-SAS/SYS_R3CONFIGURATOR.zip)  
+        [:material-cloud-download: R3Configurator](https://github.com/saildot4k/R3CONFIGURATOR/releases)  
         Extract zip to MMCE/USB/MX4SIO `device:/APPS/`  
         You will end up with: `device:/APPS/SYS_R3CONFIGURATOR/r3configurator.elf`
 
