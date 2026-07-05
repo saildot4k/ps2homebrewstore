@@ -107,13 +107,12 @@ hide:
     File manager with support for all devices:  
     Memory Card, USB, MMCE, MX4SIO, APA HDD, exFAT HDD, XFROM, DVR, UDPFS  
     Hides devices that your console does not support
-    RetroGem Game ID and more...
+    RetroGem Game ID, Launch VCDs via POPStarter and more...
 
+    [:material-cloud-download: wLE R3Z](https://downloads.ps2homebrewstore.com/SAS/WLE-R3Z.psu)  
 
     [:material-cloud-download: BOOT Folder](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu)  
     Part of [UMCS](/umcs/) as BOOT2.ELF
-
-[WLE-ISR-COMBINED]: https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-COMMON.zip
 
 
 -   __wLaunch ELF (El Isra's Fork)__![sas-psu_pic][sas-zip]{ width="75" }
@@ -153,43 +152,6 @@ hide:
     [WLE-ISR-HDD]: https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-HDD.psu
     [WLE-ISR-HDD-NN]: https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-HDD-NN.psu
     [HDD-HEADER-SAMPLES]: https://github.com/israpps/wLaunchELF_ISR_HDD/releases/download/latest/ULE-HEADER_SAMPLES.zip
-
-
-
--   __wLaunch Elf (krHACKen's Fork)__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![wlE-KHN_Pic](assets/ule_khn.png)](https://www.psx-place.com/resources/unofficial-launchelf-khn.1534/){:target="_blank"}
-
-    Launch PS1 VCDs via wLE and allows system partitions that start with double underscores to be managed IE `hdd0:/__system`
-
-    [:material-cloud-download: wLE KHN](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-KHN.psu)
-
-
--   __wLE PSX XFW & DVR__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![wlE_Pic](assets/wle_isr.png)](https://github.com/xfwcfw/uLaunchELF){:target="_blank"}
-
-    wLE fork for PSX allowing reading of `xfrom0:/`  
-    [:material-cloud-download: wLE XFW](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-XFW.psu)
-
-    wLE fork for PSX allowing browsing and modifying of `hdd0_dvr:/__xdata` and `hdd0_dvr:/__xcontents`  
-    [:material-cloud-download: wLE DVR](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-DVR.psu)
-
-
--   __uLaunchElf 4.42d__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![wlE_Pic](assets/wle_isr.png)](https://web.archive.org/web/20141104153858/http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/){:target="_blank"}
-
-    The original uLaunchElf file manager and ELF launcher from EP and Dlanor. 
-
-    [:material-cloud-download: uLaunchELF 4.42d](https://downloads.ps2homebrewstore.com/SAS/APP_ULE.psu)
-
 
 
 -   __PS2 Link__![sas-psu_pic][sas-psu]{ width="75" }
