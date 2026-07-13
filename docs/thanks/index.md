@@ -85,7 +85,7 @@ _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][disc
 
     ---
 
-    [![PSX-Place_Pic](https://www.psx-place.com/styles/nerva/xenforo/logo.png){ width="600"}][psx-place]{:target="_blank"}
+    [![PSX-Place_Pic](https://www.psx-place.com/styles/logo.png){ width="600"}][psx-place]{:target="_blank"}
     ///caption
     Forums dedicated to all things Playstation, specializing in homebrew.
     ///
