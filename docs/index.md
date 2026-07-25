@@ -25,6 +25,8 @@ search:
 
 [:fontawesome-solid-compact-disc: __Loaders:__ Play game backups](loaders/index.md){ .md-button .md-button--stretch }
 
+[:material-toolbox: __System Apps:__ Non-loader apps](sys_apps/index.md){ .md-button .md-button--stretch }
+
 [:material-toolbox: __Applications:__ Non-loader apps](apps/index.md){ .md-button .md-button--stretch }
 
 [:simple-retropie: __Emulators:__ Play Pre-PS2 games](emulators/index.md){ .md-button .md-button--stretch }

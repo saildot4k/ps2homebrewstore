@@ -40,10 +40,10 @@ hide:
     
     [![cheat-device_Pic](assets/cheat-device.png)](https://github.com/israpps/CheatDevicePS2){:target="_blank"}
 
-    Cheat Device is a game enhancer for PS2 games similar to Action Replay, GameShark, and CodeBreaker which supports booting discs and homebrew.
+    Cheat app which supports booting discs and homebrew.
 
 
-    Recommended to download both Forwarder and USB or MMCE downloads:  
+    Download both forwarder and USB or MMCE version:  
     [:material-cloud-download: Cheat Device Forwarder](https://downloads.ps2homebrewstore.com/SAS/APP_CHEATDEVICE-FORWARDER.psu)  
     PSU Paste to MemCard root
 
@@ -106,13 +106,10 @@ hide:
 
     File manager with support for all devices:  
     Memory Card, USB, MMCE, MX4SIO, APA HDD, exFAT HDD, XFROM, DVR, UDPFS  
-    Hides devices that your console does not support
+    Hides devices that your console does not support, 
     RetroGem Game ID, Launch VCDs via POPStarter and more...
 
     [:material-cloud-download: wLE R3Z](https://downloads.ps2homebrewstore.com/SAS/WLE-R3Z.psu)  
-
-    [:material-cloud-download: BOOT Folder](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu)  
-    Part of [UMCS](/umcs/) as BOOT2.ELF
 
 
 -   __wLaunch ELF (El Isra's Fork)__![sas-psu_pic][sas-zip]{ width="75" }
@@ -132,26 +129,6 @@ hide:
     [:material-cloud-download: wLE ISR Combined Download][WLE-ISR-COMBINED]
 
     [WLE-ISR-COMBINED]: https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-COMMON.zip
-
-
--   __wLE HDD Header Injection__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![wLE_Pic](assets/wle_isr.png)](https://github.com/israpps/wLaunchELF_ISR_HDD){:target="_blank"}
-
-    THIS MOD IS INTENDED ONLY FOR APA HEADER INJECTIONS (HDD MANAGER)
-
-
-    [:material-cloud-download: wLE ISR HDD][WLE-ISR-HDD]
-
-    [:material-cloud-download: wLE ISR HDD No-Network][WLE-ISR-HDD-NN]
-
-    [:octicons-link-external-16: Header Samples][HDD-HEADER-SAMPLES]
-
-    [WLE-ISR-HDD]: https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-HDD.psu
-    [WLE-ISR-HDD-NN]: https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-HDD-NN.psu
-    [HDD-HEADER-SAMPLES]: https://github.com/israpps/wLaunchELF_ISR_HDD/releases/download/latest/ULE-HEADER_SAMPLES.zip
 
 
 -   __PS2 Link__![sas-psu_pic][sas-psu]{ width="75" }
@@ -203,102 +180,6 @@ hide:
 </div>
 
 
-## System Apps
-
-<div class="grid cards" markdown>
-
--   __OSDMenu__![sascompat][sas-compat]{ width="60" }![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![OSDMenu_Pic](assets/osdmenu.png)](https://github.com/pcm720/OSDMenu){:target="_blank"}
-
-    Hacked OSDSYS like FMCB, however can launch apps from memcard browser, support for RetroGem, modchips. Too much to list! This is the new hotness!
-
-    Supports FAT32/exFAT USB, APA/exFAT HDD, MMCE, MX4SIO, MemCard, i.Link, UDPBD, CDROM. 
-    
-    Edit `mc?:/SYS-CONF/OSDMENU.CFG` as needed. OSDMenu does not check paths, so everything in config file will be listed.
-
-    [:material-cloud-download: OSDMenu 1.2.0](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
-
-
--   __PS2BBL Extended__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![PS2BBL_Pic](../exploits/assets/ps2bbl-spash.png)](https://github.com/saildot4k/PlayStation2-Basic-BootLoader-Extended){:target="_blank"}
-
-    A fork of [El Isras PS2BBL](https://github.com/israpps/PlayStation2-Basic-BootLoader).  
-
-    Launch keys/autoboot for PS2/PSX with OSDMenu features baked in: arg support, custom user logo, eGSM, PS1Vmode Negator and RetroGem visual Game ID
-    Can also be used as a forwarder. 
-
- 
-    Supports Memory Card, USB, MMCE, MX4SIO, APA HDD, exFAT HDD
-
-    [:material-cloud-download: BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu)  
-    Part of [UMCS](/umcs/) as BOOT.ELF
-
--   __FreeMCBoot Decrypted__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![FMCBD](assets/fmcb.png)](https://israpps.github.io/FreeMcBoot-Installer/){:target="_blank"}
-
-    The Hacked OSDSYS that everyone knows, but is non-extensible and not open-source.
-    Supports FAT32/exFAT USB, MemCard, CDROM.  
-    Modchip users may need to use older versions.
-
-    Edit `mc?:/SYS-CONF/FREEMCB.CNF` as needed or use the FreeMCBoot Configurator app.
-
-    [:material-cloud-download: FMCBD 1.966](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCBD-1966.psu)
-
-    [:material-cloud-download: FMCBD 1.965](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCBD-1965.psu)
-
-    [:material-cloud-download: FMCBD 1.953](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCBD-1953.psu)
-
-    [:material-cloud-download: FMCBD 1.8C](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCBD-18C.psu)
-
-
--   __R3Configurator__![sas-zip_pic][sas-zip]{ width="75" }
-
-    ---
-
-    [![R3Configurator_Pic](assets/r3configurator.png)](https://github.com/saildot4k/R3CONFIGURATOR){:target="_blank"}
-
-    GUI to configure FMCB, FHDB, OSDMenu, OSDMenu MBR, HOSDMenu, and PS2BBL Extended
-
-    [:material-cloud-download: R3Configurator](https://github.com/saildot4k/R3CONFIGURATOR/releases)  
-    Extract zip to MMCE/USB/MX4SIO `device:/APPS/`  
-    You will end up with: `device:/APPS/SYS_R3CONFIGURATOR/r3configurator.elf`
-
-
--   __FreeMCBoot Configurator__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    ![FMCBC_Pic](assets/fmcb-cfg.png)
-
-    GUI to modify the FreeMCBoot config file.
-
-    [:material-cloud-download: FMCB Configurator](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCB-CFG.psu)
-
-
--   __NTPS2__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![NTPS2_Pic](assets/ntps2.png)](https://github.com/ShyavanS/NTPS2){:target="_blank"}
-
-     NTP client for the PS2 that sets the date and time from pool.ntp.org.  
-     Network connection required!
-
-    [:material-cloud-download: NTPS2](https://downloads.ps2homebrewstore.com/SAS/SYS_NTPS2.psu)
-
-
-</div>
-
-
 ## Run Time Environments
 
 <div class="grid cards" markdown>
@@ -325,9 +206,6 @@ hide:
     [:octicons-link-external-16: Enceladus](https://github.com/DanielSant0s/Enceladus)
 
 -   
-
-
-
 
 </div> 
 

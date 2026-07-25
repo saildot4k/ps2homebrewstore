@@ -128,6 +128,8 @@ nav:
 
   - Apps: apps/index.md
 
+  - System Apps: sys_apps/index.md
+
   - Emulators: emulators/index.md
 
   - Games: games/index.md
