@@ -38,7 +38,7 @@ hide:
 
     ---
 
-    [![POPStarter_Pic](assets/popstarter.png)](https://web.archive.org/web/20240310050355/https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/browse/){:target="_blank"}
+    [![POPStarter_Pic](assets/popstarter.png)](https://nathanneurotic.github.io/POPSTARTERINFO/index.html){:target="_blank"}
 
     Launches POPS with drivers in POPSTARTER folder. Picture above links to archived documentation.
 

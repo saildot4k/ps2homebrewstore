@@ -97,19 +97,19 @@ hide:
 
     [:material-cloud-download: SMS](https://downloads.ps2homebrewstore.com/SAS/APP_SMS.psu)
 
--   __wLaunch ELF (R3Z3N's Fork)__![sas-psu_pic][umcs-zip]{ width="75" }
+-   __wLaunch ELF (R3Z3N's Fork)__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
     [![wLE_Pic](assets/wle_isr.png)](https://github.com/saildot4k/wLaunchELF_R3Z){:target="_blank"}
-    __RECOMMENDED for both PS2 AND PSX__
+    __RECOMMENDED for both PS2 AND PSX, included in [UMCS BOOT](../umcs/index.md) folder__
 
     File manager with support for all devices:  
     Memory Card, USB, MMCE, MX4SIO, APA HDD, exFAT HDD, XFROM, DVR, UDPFS  
     Hides devices that your console does not support, 
     RetroGem Game ID, Launch VCDs via POPStarter and more...
 
-    [:material-cloud-download: wLE R3Z](https://downloads.ps2homebrewstore.com/SAS/WLE-R3Z.psu)  
+    [:material-cloud-download: wLE R3Z](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-R3Z.psu)  
 
 
 -   __wLaunch ELF (El Isra's Fork)__![sas-psu_pic][sas-zip]{ width="75" }
