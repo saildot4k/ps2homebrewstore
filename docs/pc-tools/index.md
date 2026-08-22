@@ -87,6 +87,19 @@ hide:
     Fork of MyMC++ that has more features to manager VMCs, and is packaged as a Windows excecutable.
 
 
+-   __myMCpp__
+
+    ---
+
+    !!! warning "EXPERIMENTAL!"
+
+        [![myMCpp_pic](assets/myMCpp.png)](https://github.com/PCSX2/myMCpp){:target="_blank" .md-button .md-button--stretch }
+
+        This tool is currently in alpha and is considered experimental.
+
+    A C++/Qt rewrite of the original Python-based mymc++ utility, supporting PCSX2 memory cards (.ps2), PS3 virtual memory cards (.vm2, .vmc), MemCard PRO2 (.mc2, .mcd), and raw memory cards (.bin, .mc).
+
+
 -   __Open ESR Disc Patcher__
 
     ---
