@@ -27,9 +27,7 @@ hide:
     [![POPSLoader_Pic](assets/popsloader.png)](https://www.psx-place.com/resources/popsloader.1396/){:target="_blank"}
 
     Customizable POPStarter launcher with a nice GUI to browse your PS1 collection.  
-    USB & HDD supported.  
-    DOES NOT SUPPORT MMCE/MX4SIO YET!  
-    REQUIRES POPStarter and POPS.  
+    REQUIRES POPStarter and POPS but can install needed device drivers.  
 
     [:material-cloud-download: POPSLoader](https://downloads.ps2homebrewstore.com/SAS/PS1_POPSLOADER.psu)
 
