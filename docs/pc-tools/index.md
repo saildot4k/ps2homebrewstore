@@ -87,6 +87,17 @@ hide:
     Fork of MyMC++ that has more features to manager VMCs, and is packaged as a Windows excecutable.
 
 
+-   __PSU Manager__
+
+    ---
+
+    [![psumanager_pic](assets/psumanager.png)](https://git.techwritescode.dev/techwritescode/PSUManager/releases){:target="_blank" .md-button .md-button--stretch }
+
+    Create and extract PSU files on PC.  
+    PSU is a container like a zip that retains foldername and timestamp, used for saves as well as packaging homebrew for distribution.
+
+
+
 -   __Open ESR Disc Patcher__
 
     ---
