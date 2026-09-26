@@ -1,0 +1,1 @@
+python.exe .\txt_to_icon_sys.py .\icon.sys "16char" "16char"
