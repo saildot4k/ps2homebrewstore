@@ -96,6 +96,27 @@ hide:
 
     [:material-cloud-download: NTPS2](https://downloads.ps2homebrewstore.com/SAS/SYS_NTPS2.psu)
 
+-   __PowerOff PS2__![sas-psu_pic][sas-psu]{ width="75" }
+
+    ---
+
+    [![Power_Pic](assets/poweroff.png)](https://www.psx-place.com/resources/power-off-power-off-elf.349/){:target="_blank"}
+
+    Turn off the PS2 console.
+
+    [:material-cloud-download: PowerOff](https://downloads.ps2homebrewstore.com/SAS/SYS_POWEROFF.psu)
+
+
+-   __Reboot PS2__![sas-psu_pic][sas-psu]{ width="75" }
+
+    ---
+
+    [![Restart_Pic](assets/restart.png)](https://www.psx-place.com/resources/reboot-reboot-elf.348/){:target="_blank"}
+
+    Reboot the PS2.
+
+    [:material-cloud-download: Reboot](https://downloads.ps2homebrewstore.com/SAS/SYS_RESTART.psu)
+
 </div> 
 
 
