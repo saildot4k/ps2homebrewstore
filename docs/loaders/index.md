@@ -17,7 +17,7 @@ hide:
 
     [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl){:target="_blank"}
 
-    Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
+    Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, MMCE, MX4SI, UDPFS 
 
     [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
@@ -32,7 +32,7 @@ hide:
 
     Neutrino is a small, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
 
-    Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
+    Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, MMCE, MX4SIO, UDPBD, UDPFS
 
     This app cannot be packaged as a PSU due to subfolders. Extract to `mc?:/` or `mmce:/` It will self extract to a `NEUTRINO` folder. 
 
